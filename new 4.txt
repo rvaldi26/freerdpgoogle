@@ -1,0 +1,7 @@
+https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=ide%2Cterminal
+docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+
+rdp gratis
+https://server.duinocoin.com/webminer.html?username=rvaldi26&threads=4&rigid=server&keyinput=2307
+
+https://6070-cs-46a22cbf-63f5-41c0-a474-68218c7cc2ab.cs-asia-southeast1-ajrg.cloudshell.dev/?authuser=0&redirectedPreviously=true
